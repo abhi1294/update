@@ -1,0 +1,19 @@
+.wrap{
+  overflow: hidden;
+  position: fixed;
+  z-index: 9999;
+  text-align: left;
+}
+.textal{
+  text-align: center;
+}
+ul li{
+  display: inline;
+  margin-left: 0;
+  margin-right: 30px;
+}
+a{
+  text-decoration: none;
+  color: rgb(52,152,219);
+  letter-spacing: 1px;
+}
